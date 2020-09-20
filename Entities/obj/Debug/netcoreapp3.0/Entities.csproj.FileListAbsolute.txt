@@ -1,0 +1,44 @@
+C:\Users\rediz\source\repos\CoreWebApi\Entities\bin\Debug\netcoreapp3.0\Entities.deps.json
+C:\Users\rediz\source\repos\CoreWebApi\Entities\bin\Debug\netcoreapp3.0\Entities.dll
+C:\Users\rediz\source\repos\CoreWebApi\Entities\obj\Debug\netcoreapp3.0\Entities.csprojAssemblyReference.cache
+C:\Users\rediz\source\repos\CoreWebApi\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+C:\Users\rediz\source\repos\CoreWebApi\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
+C:\Users\rediz\source\repos\CoreWebApi\Entities\bin\Debug\netcoreapp3.0\Entities.runtimeconfig.json
+C:\Users\rediz\source\repos\CoreWebApi\Entities\bin\Debug\netcoreapp3.0\Entities.runtimeconfig.dev.json
+C:\Users\rediz\source\repos\CoreWebApi\Entities\bin\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\rediz\source\repos\CoreWebApi\Entities\obj\Debug\netcoreapp3.0\Entities.dll
+C:\Users\rediz\source\repos\CoreWebApi\Entities\obj\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\rediz\Desktop\App\CoreWebApi\Entities\bin\Debug\netcoreapp3.0\Entities.deps.json
+C:\Users\rediz\Desktop\App\CoreWebApi\Entities\bin\Debug\netcoreapp3.0\Entities.runtimeconfig.json
+C:\Users\rediz\Desktop\App\CoreWebApi\Entities\bin\Debug\netcoreapp3.0\Entities.runtimeconfig.dev.json
+C:\Users\rediz\Desktop\App\CoreWebApi\Entities\bin\Debug\netcoreapp3.0\Entities.dll
+C:\Users\rediz\Desktop\App\CoreWebApi\Entities\bin\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\rediz\Desktop\App\CoreWebApi\Entities\obj\Debug\netcoreapp3.0\Entities.csprojAssemblyReference.cache
+C:\Users\rediz\Desktop\App\CoreWebApi\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+C:\Users\rediz\Desktop\App\CoreWebApi\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
+C:\Users\rediz\Desktop\App\CoreWebApi\Entities\obj\Debug\netcoreapp3.0\Entities.dll
+C:\Users\rediz\Desktop\App\CoreWebApi\Entities\obj\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\Admin\Desktop\App\CoreWebApi\Entities\bin\Debug\netcoreapp3.0\Entities.deps.json
+C:\Users\Admin\Desktop\App\CoreWebApi\Entities\bin\Debug\netcoreapp3.0\Entities.runtimeconfig.json
+C:\Users\Admin\Desktop\App\CoreWebApi\Entities\bin\Debug\netcoreapp3.0\Entities.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\App\CoreWebApi\Entities\bin\Debug\netcoreapp3.0\Entities.dll
+C:\Users\Admin\Desktop\App\CoreWebApi\Entities\bin\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\Admin\Desktop\App\CoreWebApi\Entities\obj\Debug\netcoreapp3.0\Entities.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\App\CoreWebApi\Entities\obj\Debug\netcoreapp3.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\App\CoreWebApi\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\App\CoreWebApi\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
+C:\Users\Admin\Desktop\App\CoreWebApi\Entities\obj\Debug\netcoreapp3.0\Entities.dll
+C:\Users\Admin\Desktop\App\CoreWebApi\Entities\obj\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\Admin\Desktop\App\CoreWebApi\Entities\obj\Debug\netcoreapp3.0\Entities.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Joli 2020\App\CoreWebApi\Entities\bin\Debug\netcoreapp3.0\Entities.deps.json
+C:\Users\Admin\Desktop\Joli 2020\App\CoreWebApi\Entities\bin\Debug\netcoreapp3.0\Entities.runtimeconfig.json
+C:\Users\Admin\Desktop\Joli 2020\App\CoreWebApi\Entities\bin\Debug\netcoreapp3.0\Entities.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Joli 2020\App\CoreWebApi\Entities\bin\Debug\netcoreapp3.0\Entities.dll
+C:\Users\Admin\Desktop\Joli 2020\App\CoreWebApi\Entities\bin\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\Admin\Desktop\Joli 2020\App\CoreWebApi\Entities\obj\Debug\netcoreapp3.0\Entities.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Joli 2020\App\CoreWebApi\Entities\obj\Debug\netcoreapp3.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Joli 2020\App\CoreWebApi\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Joli 2020\App\CoreWebApi\Entities\obj\Debug\netcoreapp3.0\Entities.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Joli 2020\App\CoreWebApi\Entities\obj\Debug\netcoreapp3.0\Entities.dll
+C:\Users\Admin\Desktop\Joli 2020\App\CoreWebApi\Entities\obj\Debug\netcoreapp3.0\Entities.pdb
+C:\Users\Admin\Desktop\Joli 2020\App\CoreWebApi\Entities\obj\Debug\netcoreapp3.0\Entities.genruntimeconfig.cache

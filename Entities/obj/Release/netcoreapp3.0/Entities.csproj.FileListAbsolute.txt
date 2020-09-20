@@ -1,0 +1,10 @@
+C:\Users\rediz\Desktop\App\CoreWebApi\Entities\bin\Release\netcoreapp3.0\Entities.deps.json
+C:\Users\rediz\Desktop\App\CoreWebApi\Entities\bin\Release\netcoreapp3.0\Entities.runtimeconfig.json
+C:\Users\rediz\Desktop\App\CoreWebApi\Entities\bin\Release\netcoreapp3.0\Entities.runtimeconfig.dev.json
+C:\Users\rediz\Desktop\App\CoreWebApi\Entities\bin\Release\netcoreapp3.0\Entities.dll
+C:\Users\rediz\Desktop\App\CoreWebApi\Entities\bin\Release\netcoreapp3.0\Entities.pdb
+C:\Users\rediz\Desktop\App\CoreWebApi\Entities\obj\Release\netcoreapp3.0\Entities.csprojAssemblyReference.cache
+C:\Users\rediz\Desktop\App\CoreWebApi\Entities\obj\Release\netcoreapp3.0\Entities.AssemblyInfoInputs.cache
+C:\Users\rediz\Desktop\App\CoreWebApi\Entities\obj\Release\netcoreapp3.0\Entities.AssemblyInfo.cs
+C:\Users\rediz\Desktop\App\CoreWebApi\Entities\obj\Release\netcoreapp3.0\Entities.dll
+C:\Users\rediz\Desktop\App\CoreWebApi\Entities\obj\Release\netcoreapp3.0\Entities.pdb
